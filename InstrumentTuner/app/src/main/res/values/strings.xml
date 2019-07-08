@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Instrument Tuner</string>
+    <string-array name="tempo_bottom">
+        <item>4</item>
+        <item>8</item>
+        <item>16</item>
+    </string-array>
+    <string-array name="notes">
+        <item>A</item>
+        <item>A#</item>
+        <item>B</item>
+        <item>C</item>
+        <item>C#</item>
+        <item>D</item>
+        <item>D#</item>
+        <item>E</item>
+        <item>F</item>
+        <item>F#</item>
+        <item>G</item>
+        <item>G#</item>
+    </string-array>
+    <integer name="anim_bpm">60000</integer>
+</resources>
